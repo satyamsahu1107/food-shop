@@ -1,0 +1,1 @@
+https://vegishop.netlify.app/
